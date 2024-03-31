@@ -60,5 +60,6 @@ JWT_EXPIRE=5d
 COOKIE_EXPIRE=5d
 INFURA_URL=https://mainnet.infura.io/v3/Project_Id
 ```
+- Start the server using `npm start`.
 - Access the Swagger documentation at http://localhost:4000/api-docs.
 - Use API endpoints as documented.
