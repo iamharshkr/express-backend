@@ -31,7 +31,10 @@ const options = {
     },
     servers: [
       {
-        url: "http://localhost:4000",
+        url: "https://demo.quantafile.com/",
+      },
+      {
+        url: "http://localhost:4000/",
       },
     ],
   },
